@@ -5,7 +5,7 @@ My CompTIA Exam notes
 ## Security+ SYO-701
 Resources used:  
 1. Professor Messer: https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv
-2. Jason Dion: https://www.udemy.com/course/securityplus/
+
 
 | Section | Domain                                    | % of Exam |
 |---------|-------------------------------------------|-----------|
